@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Kabilashini-Uki/MiniProject/static/css/main.55d85b6b.css",
+    "main.js": "/Kabilashini-Uki/MiniProject/static/js/main.eadb9047.js",
+    "static/js/453.b546de67.chunk.js": "/Kabilashini-Uki/MiniProject/static/js/453.b546de67.chunk.js",
+    "static/media/music.jpg": "/Kabilashini-Uki/MiniProject/static/media/music.33e910e4f636ca800f6f.jpg",
+    "static/media/sad.png": "/Kabilashini-Uki/MiniProject/static/media/sad.efa3862513dfac744f39.png",
+    "static/media/happy.png": "/Kabilashini-Uki/MiniProject/static/media/happy.d54f9a62f6d05b4b5b13.png",
+    "static/media/back.webp": "/Kabilashini-Uki/MiniProject/static/media/back.a4fadd592a080491ca06.webp",
+    "static/media/heart.png": "/Kabilashini-Uki/MiniProject/static/media/heart.dad8dc49b1fcc945e545.png",
+    "static/media/calm.png": "/Kabilashini-Uki/MiniProject/static/media/calm.063bcff0e81e78174cd6.png",
+    "static/media/motiveted.png": "/Kabilashini-Uki/MiniProject/static/media/motiveted.e69b130349516bb19b56.png",
+    "static/media/energy.png": "/Kabilashini-Uki/MiniProject/static/media/energy.edf9e0b1648b122300d4.png",
+    "index.html": "/Kabilashini-Uki/MiniProject/index.html",
+    "main.55d85b6b.css.map": "/Kabilashini-Uki/MiniProject/static/css/main.55d85b6b.css.map",
+    "main.eadb9047.js.map": "/Kabilashini-Uki/MiniProject/static/js/main.eadb9047.js.map",
+    "453.b546de67.chunk.js.map": "/Kabilashini-Uki/MiniProject/static/js/453.b546de67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55d85b6b.css",
+    "static/js/main.eadb9047.js"
+  ]
+}
