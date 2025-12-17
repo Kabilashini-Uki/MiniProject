@@ -1,5 +1,9 @@
 import React from "react";
+<<<<<<< HEAD
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+=======
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+>>>>>>> 06e91562b9ca26bb01f12786ecc7dced18a1817f
 import "./App.css";
 
 import Home from "./components/Home";
